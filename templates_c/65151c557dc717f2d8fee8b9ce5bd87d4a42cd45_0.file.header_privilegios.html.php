@@ -1,0 +1,136 @@
+<?php
+/* Smarty version 3.1.30, created on 2016-11-13 07:06:57
+  from "C:\xampp\htdocs\hotelDumort\templates\componentes\header_privilegios.html" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.30',
+  'unifunc' => 'content_58280301c67446_20751206',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '65151c557dc717f2d8fee8b9ce5bd87d4a42cd45' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\hotelDumort\\templates\\componentes\\header_privilegios.html',
+      1 => 1478993703,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_58280301c67446_20751206 (Smarty_Internal_Template $_smarty_tpl) {
+?>
+<!-- header privilegios -->
+<header>
+  <div id="enlaces">
+    <a href="en">English version </a>
+  </div>
+
+  <!--logotipos -->
+  <div id="logo">
+    <!--Agrega una imagen -->
+    <img src="../image/banners/header.jpg" />
+  </div>
+
+    <!-- Menu de navegación -->
+    <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-navegacion" aria-expanded="false">
+            <span class="sr-only">Desplegar / Ocultar menu</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- Titulo de la pagina web -->
+          <a class="navbar-brand" href="index.php">Hotel Dumort</a>
+        </div>
+
+        <!-- Inicia el menu-->
+        <div class="collapse navbar-collapse" id="menu-navegacion">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="../index.php">Ir a Página Principal</a></li>
+
+            <?php if (isset($_smarty_tpl->tpl_vars['privilegio']->value)) {?>
+                    <?php if ($_smarty_tpl->tpl_vars['privilegio']->value == "contador" || $_smarty_tpl->tpl_vars['privilegio']->value == "administrador") {?>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">
+                Contador <span class="caret"></span>
+              </a>
+                <!-- SubMenu -->
+                <ul class="dropdown-menu" role="menu">
+
+                      <li><a href="admClientes.php">Ir a Clientes</a></li>
+                      <li><a href="admConsumo.php">Ir a Consumos</a></li>
+                      <li><a href="admEmpleado.php">Ir a Entidad Federativa</a></li>
+                      <li><a href="admEstado.php">Ir a Empleados</a></li>
+
+                      <li role="separator" class="divider"></li>
+                      <li><a href="admPago.php">Ver pagos</a></li>
+                      <li><a href="admProducto.php">Productos</a></li>
+                      <li><a href="admReserva.php">Ver Reservas</a></li>
+
+
+                      <li role="separator" class="divider"></li>
+                      <li><a href="admtipoComprobante.php">Tipo comprobante</a></li>
+                      <li><a href="admTipoHabitacion.php">Tipo de habitacion</a></li>
+
+                      <li role="separator" class="divider"></li>
+                      <li><a href="admTipoReserva.php">Tipo de Reservacion</a></li>
+                      <li><a href="admuMedida.php">Unidad de medisa</a></li>
+                      <li><a href="habitacion.php">Ir a Habitaciones</a></li>
+
+
+
+                  <li role="separator" class="divider"></li>
+                  <li><a href="reporte.php">Visualizar Reporte</a></li>
+                  <?php }?>
+                <?php }?>
+                </ul>
+            </li>
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+
+            <?php if (isset($_smarty_tpl->tpl_vars['privilegio']->value)) {?>
+              <?php if ($_smarty_tpl->tpl_vars['privilegio']->value == "contador" || $_smarty_tpl->tpl_vars['privilegio']->value == "administrador" || $_smarty_tpl->tpl_vars['privilegio']->value == "login") {?>
+              <li><a href="perfil.php"> <span class="glyphicon glyphicon-user"> Perfil</span></a></li>
+              <?php }?>
+            <?php }?>
+            <?php if (isset($_smarty_tpl->tpl_vars['privilegio']->value)) {?>
+                <?php if ($_smarty_tpl->tpl_vars['privilegio']->value == "administrador") {?>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Administración<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+
+
+                    <li><a href="usuario.php">Usuario</a></li>
+                    <li><a href="rol.php">Rol</a></li>
+                    <li><a href="privilegio.php">Privilegio</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="rol_privilegio.php">Rol Privilegio</a></li>
+                    <li><a href="usuario_rol.php">Usuario Rol</a></li>
+              </ul>
+            </li>
+            <?php }?>
+          <?php }?>
+            <li><a href="login.php?accion=logout"></a></li>
+            <?php if (isset($_smarty_tpl->tpl_vars['privilegio']->value)) {?>
+              <?php if ($_smarty_tpl->tpl_vars['privilegio']->value == "contador" || $_smarty_tpl->tpl_vars['privilegio']->value == "administrador" || $_smarty_tpl->tpl_vars['privilegio']->value == "login") {?>
+              <li><a href="login.php?accion=logout"><span class="glyphicon glyphicon-off"> Salir</span></a></li>
+              <?php } else { ?>
+                <li><a href="login.php"><span class="glyphicon glyphicon-cloud-upload"> Acceder</span></a></li>
+              <?php }?>
+            <?php }?>
+          </ul>
+
+
+
+      </div>  <!--Fin del menu-->
+    </nav>
+</header>
+<?php }
+}

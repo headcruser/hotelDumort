@@ -1,0 +1,64 @@
+<!DOCTYPE html>     <!--INDICA QUE ES UN DOCUMENTO HTML -->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> CONTACTO </title>
+
+    <!--hoja de estilos -->
+    {include file='publico/estilos.html'}
+  </head>
+  <body>
+    <!--contenedor principal -->
+    <div id="wrapper">
+
+      {include file='publico/header.html'}
+
+      <div id="contenedor">
+          <section>
+            <h1>CONTACTO</h1>
+            <p>
+              Contacta al gran hotel Dumort para una estancia de lujo en la ciudad de Celaya Guanajuato.
+            </p>
+
+            <br>
+
+            <p>
+              Si tienes alguna pregunta o comentario sobre nuestro hotel o deseas conocer más acerca de las principales atracciones de la Ciudad de Celaya Guanajuato, por favor no dudes en contactarnos por cualquiera de nuestras plataformas de comunicación.
+            </p>
+
+            <br>
+            <form >
+               <label >Nombre</label>
+               <input type="text" name="nombre"/>
+               <br>
+               <label >Correo electronico</label>
+               <input type="email" name="correo"/>
+               <br>
+               <label >Telefono</label>
+               <input type="tel" name="telefono"/>
+               <br>
+               <br>
+               <label> comentario</label>
+               <textarea name="comentario" rows="8" cols="40"></textarea>
+               <br>
+               <input type="submit" name="enviar" value="enviar">
+         </form>
+
+          </section>
+
+        <aside id="bienvenida">
+          <br>
+          <img src=".\IMAGE\contacto.jpg" height="150" width="220" />
+          <br>
+          <br>
+          <h3>CONTACTO</h3>
+
+
+        </aside>
+
+        {include file='componentes/footer.html'}
+      </div>
+      {include file='componentes/js.html'}
+    </div>
+  </body>
+</html>

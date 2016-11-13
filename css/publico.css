@@ -1,0 +1,296 @@
+/*Selector universal*/
+*{
+  margin: 0;
+  padding: 0;
+ }
+
+/************************************************************
+          CONTENEDORES DEL LOGO Y ENLACE EN INGLES
+*************************************************************/
+header,nav,#enlaces,#contenedor,#logo
+{
+   width: 975px;
+   float: right;
+   margin: 5px auto; /*asigna un pequeño espacio entre elementos**/
+   padding: 0px;
+   overflow:hidden;
+}
+
+/******************************************************
+                    CONTENEDORES
+*******************************************************/
+
+/*contenedor principal**/
+#wrapper
+{
+  width:975px;
+  margin: auto;
+  overflow:hidden;
+}
+
+
+section
+{
+ font-family:cursive;
+ font-size:14px;
+ color:black;
+ text-align: justify;
+}
+
+section
+{
+  width: 66%;
+
+  margin-top: 1%;
+  float:left;
+  background:#F6F7F2;
+  padding: 10px;
+  border-radius:10px;
+  margin-right:10px;
+  border-style: double; border-width: 4px;
+}
+
+
+aside
+{
+  width: 30%;
+  margin-top: 2.5%; /*otorga un espacio arriba**/
+  background:#E26A6A;
+  float: left;
+  font-family: 'Comic Sans MS';
+  font-size: 12px;
+  text-align: center;
+  border-radius:10px;
+  height: 300px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-style: inset; border-width: 4px; /*borde de linea*/
+}
+
+
+
+/**********************************************************
+                  BARRA DE NAVEGACION ANIMADA
+************************************************************/
+nav
+{
+   margin:auto;
+   padding: 0px;
+   width:975px;
+   font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.NAVEGACION ul
+{
+  list-style:none;
+  overflow: hidden; /* Limpiamos errores de float */
+
+}
+
+nav ul
+{
+  list-style:none;
+  margin: auto;
+}
+
+
+.NAVEGACION > li
+{
+  float:left;
+  box-shadow: 0px 4px 3px rgba(0,0,0,.5);
+}
+
+
+/*cambiar el color**/
+.NAVEGACION li a
+{
+  background-color:#000;
+  color:#fff;  /*COLOR DE LETRA*/
+  text-decoration:none;
+  padding:7px 51.3px;  /*tamaño de la barra*/
+  display:block;
+
+
+}
+
+.NAVEGACION li a:hover
+{
+  background-color:#282830;
+}
+
+.NAVEGACION li ul
+{
+  display:none;
+  position:absolute;
+  min-width:140px;
+}
+
+.NAVEGACION li:hover > ul
+{
+  display:block;
+}
+
+.NAVEGACION li ul li
+{
+  position:relative;
+}
+
+.NAVEGACION li ul li ul
+{
+
+  top:0px;
+}
+
+
+/**************************************************
+                 SECCION FOOTER
+***************************************************/
+
+footer
+{
+  /**Color azul*/
+
+  color: #fff;
+  clear: both; /**limpia los rastros de los float*/
+  padding: 10px 0px;
+  text-align: center;
+  border-radius:10px;
+  height:200px;
+  margin: 20px 10px; /*asigna un pequeño espacio entre elementos**/
+}
+
+/******************************************************************************************
+                                ESTILO PARA LAS SECCIONES DEL FOOTER
+******************************************************************************************/
+
+#aviso a   /**para modificar los hipervinculos*/
+{
+  width: 60%;
+  float: left;
+  margin:auto;
+  text-align: left;
+  text-decoration: none;
+}
+
+#direccion
+{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  float: left;
+  font-family: Helvetica, Geneva, Arial, sans-serif;
+  font-weight:bolder;
+  color:  rgba(255,255,255,.6);
+
+}
+
+#privacidad
+{
+  width:60%;
+  float: left;
+  text-align: center;
+  float: left;
+}
+
+
+#redes
+{
+  width: 31%;
+  float: right;
+  text-align: center;
+}
+
+
+#enlaces
+{
+  font-family: Helvetica, Geneva, Arial, sans-serif;
+  background: rgba(0,0,0,.1);
+  border-color: rgba(255,255,255,.1);
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 10px; /*asigna un pequeño espacio entre elementos**/
+
+
+}
+
+#enlaces a
+{
+
+  text-decoration: none;
+  font-weight:bolder;
+  font-size: 20px
+}
+
+
+
+
+button, input, select, textarea {
+  font-family : inherit;
+  font-size   : 90%;
+  border: 1px dotted #999;
+
+    -webkit-appearance: none;
+
+}
+
+#contenedor {
+  margin: .8em 0;
+}
+#contenedor label {
+  width: 25%;
+  float: left;
+}
+
+.social_bookmarks_container {
+  width:100%;
+  height:65px;
+  padding:0;
+  position:relative;
+}
+.social_bookmarks {
+  position:relative;
+  float:left;
+  margin:0;
+  padding:0;
+}
+.social_bookmarks li {
+  margin:0 0 1px 1px;
+  height:57px;
+  width:57px;
+  list-style:none;
+  float:left;
+  padding:0;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+.social_bookmarks li a {
+  float:left;
+  width:57px;
+  line-height:24px;
+  display: block;
+  text-indent: -99999px;
+  margin:0px;
+  outline: none;
+  padding:0;
+  min-height:57px;
+  height:100%;
+  text-decoration:none;
+}
+
+.social_bookmarks .iconrss{background: #A4A4A4 url(../image/social/icon-rss.png) top left no-repeat;}
+.social_bookmarks .iconrssmail{background: #BDBDBD url(../image/social/icon-rssmail.png) top left no-repeat;}
+.social_bookmarks .icontwitter{background: #D8D8D8 url(../image/social/twitter.png) top left no-repeat;}
+.social_bookmarks .iconfacebook{background: #E6E6E6 url(../image/social/icon-facebook.png) top left no-repeat;}
+.social_bookmarks .icongplus{background: #F1F1F1 url(../image/social/icon-gplus.png) top left no-repeat;}
+.social_bookmarks .iconfacebook:hover{background-position:center -57px; background-color: #37589b;}
+.social_bookmarks .icontwitter:hover {background-position:center -57px; background-color: #46d4fe;}
+.social_bookmarks .icongplus:hover {background-position:center -57px; background-color: #de5a49;}
+.social_bookmarks .iconrss:hover{background-position:center -57px; background-color: #ff6600;}
+.social_bookmarks .iconrssmail:hover{background-position:center -57px; background-color: #FFDE00;}
+.social_bookmarks li:hover a{background: transparent url(//lh4.googleusercontent.com/-XNviZ_JqvyU/U4vDMDFAX8I/AAAAAAAALLk/E4VIJr1onlo/s57/icon-social-reflect.png) no-repeat;
+}

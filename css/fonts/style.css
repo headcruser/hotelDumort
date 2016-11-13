@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?ar06xx');
+  src:  url('icomoon.eot?ar06xx#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?ar06xx') format('truetype'),
+    url('icomoon.woff?ar06xx') format('woff'),
+    url('icomoon.svg?ar06xx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-servicio:before {
+  content: "\e984";
+}
+.icon-home:before {
+  content: "\e9b8";
+}
+.icon-contacto:before {
+  content: "\e9c4";
+}
+.icon-sesion:before {
+  content: "\e9c6";
+}
+.icon-acerca:before {
+  content: "\e9db";
+}
+.icon-bolsa:before {
+  content: "\ea11";
+}
+.icon-alianza:before {
+  content: "\ea37";
+}
+

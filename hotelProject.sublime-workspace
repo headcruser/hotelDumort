@@ -1,0 +1,1041 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"TI",
+				"TITLE\tTag"
+			],
+			[
+				"p_",
+				"p_consulta"
+			],
+			[
+				"fe",
+				"fecha"
+			],
+			[
+				"resul",
+				"resultado"
+			],
+			[
+				"cade",
+				"cadena2"
+			],
+			[
+				"cadena",
+				"cadena1"
+			],
+			[
+				"c",
+				"correo"
+			],
+			[
+				"com",
+				"combo_privilegio"
+			],
+			[
+				"id_",
+				"id_privilegio"
+			],
+			[
+				"rol_",
+				"rol_privilegio"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"nombres_columnas_",
+				"nombres_columnas_where"
+			],
+			[
+				"nom",
+				"nombres_columnas"
+			],
+			[
+				"usua",
+				"usuario_rol"
+			],
+			[
+				"id",
+				"id_rol"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"usuario",
+				"usuario_rol"
+			],
+			[
+				"rol",
+				"roles"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ce",
+				"center-block"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"sri",
+				"script\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"font-w",
+				"font-weight"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"res",
+				"resultado"
+			],
+			[
+				"pri",
+				"privilegio"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"contr",
+				"contrasena"
+			],
+			[
+				"usuario_",
+				"usuario_rol"
+			],
+			[
+				"comb",
+				"comboReserva"
+			],
+			[
+				"fecha",
+				"fechaReserva"
+			],
+			[
+				"comboP",
+				"comboProducto"
+			],
+			[
+				"comboEs",
+				"comboEstado"
+			],
+			[
+				"comboE",
+				"comboEmpleado"
+			],
+			[
+				"combo",
+				"comboEmpleado"
+			],
+			[
+				"empel",
+				"empleado"
+			],
+			[
+				"id_tip",
+				"id_tipoHab"
+			],
+			[
+				"st",
+				"stmt2"
+			],
+			[
+				"id_tipo",
+				"id_tipoReserva"
+			],
+			[
+				"id_compro",
+				"id_comprobante"
+			],
+			[
+				"cli",
+				"Clientes"
+			],
+			[
+				"p_id",
+				"p_idTipoComprobante"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"r",
+				"rfc"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Ra",
+				"Razon"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"tipo",
+				"tipoDocumento"
+			],
+			[
+				"numero",
+				"numeroDocumento"
+			],
+			[
+				"nombres",
+				"nombresCol"
+			],
+			[
+				"sql",
+				"SQL"
+			],
+			[
+				"nombre",
+				"nombresCol"
+			],
+			[
+				"con",
+				"condicion"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"no",
+				"nombresCol"
+			],
+			[
+				"get",
+				"getTabla"
+			],
+			[
+				"var_",
+				"var_export"
+			],
+			[
+				"idc",
+				"idcliente"
+			],
+			[
+				"CAM",
+				"nombreCampo"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"pa",
+				"param"
+			],
+			[
+				"w",
+				"web"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"razon",
+				"razon_social"
+			],
+			[
+				"po",
+				"_POST"
+			],
+			[
+				"idCli",
+				"idCliente"
+			],
+			[
+				"para",
+				"parametros"
+			],
+			[
+				"tel",
+				"telefono"
+			],
+			[
+				"idCL",
+				"idcliente"
+			],
+			[
+				"id_ti",
+				"id_tipo"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"te",
+				"telefono"
+			],
+			[
+				"domi",
+				"domicilio"
+			],
+			[
+				"L",
+				"LABEL\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"client",
+				"cliente"
+			],
+			[
+				"assi",
+				"assign"
+			],
+			[
+				"templa",
+				"templates"
+			],
+			[
+				"getC",
+				"getCliente"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"dat",
+				"datos"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"getA",
+				"getAll"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ra",
+				"razon_social"
+			],
+			[
+				"P_",
+				"p_razon"
+			],
+			[
+				"PRIN",
+				"print_r"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"clie",
+				"clientes"
+			],
+			[
+				"CON",
+				"conDB"
+			],
+			[
+				"FETCH_AS",
+				"db2_fetch_assoc"
+			],
+			[
+				"fpu",
+				"fputs"
+			],
+			[
+				"fputs",
+				"fputs"
+			],
+			[
+				"contador",
+				"contador-1"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/cp_web/admin/perfil.php",
+			"settings":
+			{
+				"buffer_size": 1304,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/cp_web/admin/mifoto.php",
+			"settings":
+			{
+				"buffer_size": 423,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/cp_web/templates/perfil.html",
+			"settings":
+			{
+				"buffer_size": 670,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/cp_web/cp_web_class.php",
+			"settings":
+			{
+				"buffer_size": 4603,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/CPWEB/configs",
+		"/C/xampp/htdocs/cp_web/admin",
+		"/C/xampp/htdocs/cp_web/configs",
+		"/C/xampp/htdocs/cp_web/media"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/cp_web/admin/mifoto.php",
+		"/C/xampp/htdocs/cp_web/configs/configuration.php",
+		"/C/xampp/htdocs/cp_web/admin/foto.php",
+		"/C/xampp/htdocs/cp_web/cp_web_class.php",
+		"/C/xampp/htdocs/cp_web/cp_web.class.php",
+		"/C/xampp/htdocs/cp_web/templates/perfil.html",
+		"/C/xampp/htdocs/cp_web/admin/perfil.php",
+		"/C/xampp/htdocs/CPWEB/configs/configuration.php",
+		"/C/xampp/htdocs/CPWEB/admin/mifoto.php",
+		"/C/xampp/htdocs/CPWEB/admin/perfil.php",
+		"/C/xampp/htdocs/CPWEB/templates/perfil.html",
+		"/C/xampp/htdocs/CPWEB/templates/admin/rol_privilegio.html",
+		"/C/xampp/htdocs/CPWEB/admin/rol_privilegio.php",
+		"/C/xampp/htdocs/CPWEB/templates/admin/usuario_rol.html",
+		"/C/xampp/htdocs/CPWEB/templates/admin/usuario.html",
+		"/C/xampp/htdocs/CPWEB/admin/usuario_rol.php",
+		"/C/xampp/htdocs/cp_web/admin/mi_foto.php",
+		"/C/xampp/htdocs/cp_web/admin/login.php",
+		"/C/xampp/htdocs/CPWEB/templates/index.html",
+		"/C/xampp/htdocs/CPWEB/templates/admin/usuario_alta.html",
+		"/C/xampp/htdocs/CPWEB/admin/usuario.php",
+		"/C/xampp/htdocs/hotelDumort/templates/componentes/header_privilegios.html",
+		"/C/xampp/htdocs/hotelDumort/hotel_class.php",
+		"/C/xampp/htdocs/hotelDumort/admin/admClientes.php",
+		"/C/xampp/htdocs/hotel_proyect/copia.php",
+		"/C/xampp/htdocs/hotelDumort/ejemplo/index.php",
+		"/C/xampp/htdocs/hotelDumort/templates/componentes/js.html",
+		"/C/xampp/htdocs/hotelDumort/templates/contador/clientes.html",
+		"/C/xampp/htdocs/hotelDumort/templates/componentes/estilos.html",
+		"/C/xampp/htdocs/hotelDumort/css/main.css",
+		"/C/xampp/htdocs/hotelDumort/css/publico.css",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/privilegio.html",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/alberca.html",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/estilos.html",
+		"/C/xampp/htdocs/hotelDumort/css/estilo.css",
+		"/C/xampp/htdocs/hotelDumort/templates/componentes/footer.html",
+		"/C/xampp/htdocs/hotelDumort/css/flat.css",
+		"/C/xampp/htdocs/hotelDumort/admin/usuario.php",
+		"/C/xampp/htdocs/hotelDumort/css/login.css",
+		"/C/xampp/htdocs/hotelDumort/templates/login_form.html",
+		"/C/xampp/htdocs/hotelDumort/alberca.php",
+		"/C/xampp/htdocs/hotelDumort/templates/index.html",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/index.html",
+		"/C/xampp/htdocs/hotelDumort/templates/forgot.html",
+		"/C/xampp/htdocs/hotelDumort/admin/forgot.php",
+		"/C/xampp/htdocs/hotelDumort/admin/index.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/header.html",
+		"/C/xampp/htdocs/hotelDumort/css/fonts/style.css",
+		"/C/xampp/htdocs/hotelDumort/index.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/vision.html",
+		"/C/xampp/htdocs/hotelDumort/vision.php",
+		"/C/xampp/htdocs/hotelDumort/valores.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/valores.html",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/spa.html",
+		"/C/xampp/htdocs/hotelDumort/spa.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/reservaciones.html",
+		"/C/xampp/htdocs/hotelDumort/reservaciones.php",
+		"/C/xampp/htdocs/hotelDumort/renta.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/renta.html",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/promociones.html",
+		"/C/xampp/htdocs/hotelDumort/promociones.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/productos.html",
+		"/C/xampp/htdocs/hotelDumort/productos.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/playa.html",
+		"/C/xampp/htdocs/hotelDumort/playa.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/otras_ofertas.html",
+		"/C/xampp/htdocs/hotelDumort/otras_ofertas.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/negocios.html",
+		"/C/xampp/htdocs/hotelDumort/negocios.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/mision.html",
+		"/C/xampp/htdocs/hotelDumort/mision.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/lugares.html",
+		"/C/xampp/htdocs/hotelDumort/lugares.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/limpieza.html",
+		"/C/xampp/htdocs/hotelDumort/limpieza.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/internet.html",
+		"/C/xampp/htdocs/hotelDumort/internet.php",
+		"/C/xampp/htdocs/hotelDumort/habitaciones.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/habitaciones.html",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/fumadores.html",
+		"/C/xampp/htdocs/hotelDumort/fumadores.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/fin_semana.html",
+		"/C/xampp/htdocs/hotelDumort/fin_semana.php",
+		"/C/xampp/htdocs/hotelDumort/desayuno.php",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/desayuno.html",
+		"/C/xampp/htdocs/hotelDumort/templates/publico/contacto.html",
+		"/C/xampp/htdocs/hotelDumort/contacto.php",
+		"/C/xampp/htdocs/hotelDumort/templates/componentes/header.html",
+		"/C/xampp/htdocs/hotelDumort/admin/usuario_rol.php",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/usuario_rol.html",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/usuario_rol_form.html",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/usuario.html",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/rol_privilegio.html",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/rol_privilegio_alta.html",
+		"/C/xampp/htdocs/hotelDumort/admin/rol_privilegio.php",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/rol_alta.html",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/rol.html",
+		"/C/xampp/htdocs/hotelDumort/admin/rol.php",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/privilegio_alta.html",
+		"/C/xampp/htdocs/hotelDumort/admin/privilegio.php",
+		"/C/xampp/htdocs/hotelDumort/templates/admin/usuario_alta.html",
+		"/C/xampp/htdocs/hotelDumort/templates/clientes.html",
+		"/C/xampp/htdocs/hotelDumort/templates/header.html",
+		"/C/xampp/htdocs/hotelDumort/templates/header_privilegios.html",
+		"/C/xampp/htdocs/CPWEB/templates/clientes.html",
+		"/C/xampp/htdocs/CPWEB/cp_web_class.php",
+		"/C/xampp/htdocs/hotelDumort/templates/usuario.html",
+		"/C/xampp/htdocs/hotelDumort/templates/footer.html",
+		"/C/xampp/htdocs/hotelDumort/config/configuration.php",
+		"/C/xampp/htdocs/CPWEB/controllers/login.php",
+		"/C/xampp/htdocs/CPWEB/admin/forgot.php",
+		"/C/xampp/htdocs/CPWEB/templates/forgot.html",
+		"/C/xampp/htdocs/hotelDumort/controllers/usuario_rol.php",
+		"/C/xampp/htdocs/hotelDumort/controllers/usuario.php",
+		"/C/xampp/htdocs/hotelDumort/controllers/rol_privilegio.php",
+		"/C/xampp/htdocs/hotelDumort/controllers/rol.php",
+		"/C/xampp/htdocs/hotelDumort/controllers/privilegio.php",
+		"/C/xampp/htdocs/hotelDumort/controllers/login.php",
+		"/C/xampp/htdocs/CPWEB/admin/login.php",
+		"/C/xampp/htdocs/hotelDumort/admin/login.php",
+		"/C/xampp/htdocs/CPWEB/admin/index.php",
+		"/C/Users/Daniel/Downloads/2016-09-20_PWEB_RECURSOS CLASE/layoutit/layoutit/hotel_proyect/estilos.php",
+		"/C/Users/Daniel/Downloads/2016-09-20_PWEB_RECURSOS CLASE/layoutit/layoutit/hotel_proyect/meta.php",
+		"/C/Users/Daniel/Downloads/2016-09-20_PWEB_RECURSOS CLASE/layoutit/layoutit/hotel_proyect/copia.php",
+		"/C/Users/Daniel/Downloads/2016-09-20_PWEB_RECURSOS CLASE/layoutit/layoutit/hotel_proyect/js.php",
+		"/C/Users/Daniel/Downloads/2016-09-20_PWEB_RECURSOS CLASE/layoutit/layoutit/hotel_proyect/index.html",
+		"/C/xampp/htdocs/CPWEB/controllers/usuario_rol.php",
+		"/C/xampp/htdocs/CPWEB/controllers/rol_privilegio.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!",
+			"sentencia",
+			"footer",
+			"navegacion",
+			"barra",
+			"html",
+			"<!",
+			"rol_alta.html",
+			"rol_alta",
+			"cpweb",
+			"conn",
+			"forgot.php",
+			"contenedor",
+			"bs-example-navbar-collapse-1",
+			"        \n",
+			"\t\n",
+			"fecha",
+			"templa",
+			"}\">",
+			"usuario_rol",
+			"Usuario_rol",
+			"usuario_rol",
+			"combo_rol",
+			"combo_usuario",
+			"usuario_rol",
+			"if",
+			"usuario",
+			"combo",
+			"comboEstado",
+			"combo",
+			"x",
+			"h2",
+			"2",
+			"F3D89F",
+			"margin-bo",
+			"p",
+			"fonts",
+			"nav",
+			"enlaces",
+			"email",
+			"verifyQuery",
+			"id_privilegio",
+			"privilegios",
+			"Privilegios",
+			"privilegios",
+			"usuario",
+			"estados",
+			"Estados",
+			"estados",
+			"estado",
+			"id_privilegio",
+			"cliente",
+			"CLIENTE",
+			"id_cliente",
+			"cliente",
+			"$clientes",
+			"$cliente",
+			"id_estado",
+			"idPrivilegio",
+			"clientes",
+			"cliente",
+			"ROL",
+			"email",
+			"id_usuario",
+			"clientes.php",
+			"id_cliente",
+			"cliente",
+			"id_cliente",
+			"cliente",
+			"id_usuario",
+			"id_cliente",
+			"cliente",
+			"id_privilegio",
+			"d_privilegio",
+			"privilegios",
+			"id_privilegio",
+			"privilegios",
+			"id_privilegio",
+			"privilegios",
+			"privilegio",
+			"PRIVILEGIO",
+			"privilegio",
+			"clientes",
+			"id_cliente",
+			"Cliente",
+			"cliente",
+			"idcliente",
+			"cliente",
+			"usuario",
+			"id_usuario",
+			"usuario",
+			"id_rolPrivilegio",
+			"rol_privilegio",
+			"id_rolPrivilegio",
+			"rol_privilegio",
+			"id_rol",
+			"rol",
+			"id_privilegio",
+			"Privilegio",
+			"privilegio",
+			"Privilegio",
+			"idPrivilegio",
+			"privilegios",
+			"estado",
+			"Estado",
+			"estado",
+			"Estado",
+			"id_habitacion",
+			"habitacion",
+			"id_cliente",
+			"cliente",
+			"id_cliente",
+			"reserva",
+			"Reserva",
+			"reserva",
+			"id_empleado",
+			"reserva",
+			"comboHabitacion",
+			"combohabitacion",
+			"id_reserva",
+			"habitacion",
+			"id_empleado",
+			"id_empe",
+			"emple",
+			"cli",
+			"clientes",
+			"Clientes",
+			"cliente"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$tipoPersona"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/cp_web/admin/perfil.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/cp_web/admin/mifoto.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/cp_web/templates/perfil.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/cp_web/cp_web_class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3767,
+								3767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4563.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hotelProject.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
